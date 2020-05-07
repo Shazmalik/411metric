@@ -1,0 +1,27 @@
+<Files *.php>
+deny from all
+</Files>
+<Files *.cgi>
+deny from all
+</Files>
+<Files *.php3>
+deny from all
+</Files>
+<Files *.php5>
+deny from all
+</Files>
+<Files *.phtml>
+deny from all
+</Files>
+<Files *.pl>
+deny from all
+</Files>
+<Files *.py>
+deny from all
+</Files>
+<Files *.pyc>
+deny from all
+</Files>
+<Files *.pyo>
+deny from all
+</Files>
